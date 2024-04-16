@@ -2,3 +2,6 @@
 
 Web學習網站
 https://web.dev/learn?hl=zh-tw
+
+viewport的meta元素
+https://web.dev/learn/design/intro?hl=zh-tw#a_meta_element_for_viewport
